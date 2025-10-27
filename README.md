@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Henrique Luiz Hernandes!
 
-<!--
-**r1ckz1n/r1ckz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Foco em desenvolvimento **Backend com Python**  
+🚀 Aprendendo e criando projetos práticos para evoluir na programação  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Atualmente estou:
+- Estudando **Python**, **lógica de programação** e **Git/GitHub**
+- Praticando com mini-projetos no terminal
+- Buscando minha primeira oportunidade como **estagiário na área de TI**
+
+---
+
+### 🧰 Tecnologias que estou aprendendo:
+🐍 Python  
+🗂️ Git & GitHub  
+💾 Banco de Dados (noções básicas)  
+🧱 HTML e CSS  
+
+---
+
+### 📫 Como me encontrar:
+📧 **henrique.l.hernandes@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/henrique-luiz-hernandes-02a604210)  
+📸 [Instagram](https://www.instagram.com/ahernandes_)  
+
+---
+
+> 💡 “A prática leva ao progresso — cada linha de código é um passo a mais.”
+###
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Henrique-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Henrique-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Henrique-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Henrique-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+
