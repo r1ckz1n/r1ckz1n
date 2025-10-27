@@ -24,11 +24,11 @@
 ### 📫 Como me encontrar:
 📧 **henrique.l.hernandes@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/henrique-luiz-hernandes-02a604210)  
-📸 [Instagram](https://www.instagram.com/ahernandes_)  
+📸 [Instagram](https://www.instagram.com/ohernandes_)  
 
 ---
 
-> 💡 “A prática leva ao progresso — cada linha de código é um passo a mais.”
+> 💡 "É preciso passar pela escuridão, para apreciar a o nascer do sol."
 ###
 
 <div style="display: inline_block"><br>
