@@ -1,34 +1,31 @@
-# 👋 Olá, eu sou o Henrique Luiz Hernandes!
+👋 Olá! Sou o Henrique Luiz Hernandes, estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e desenvolvimento web.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-💻 Foco em desenvolvimento **Backend com Python**  
-🚀 Aprendendo e criando projetos práticos para evoluir na programação  
+💻 Atualmente estou focado em me tornar um Desenvolvedor Web Full Stack, com ênfase em Backend com TypeScript e Frontend com React e Next.js. Busco constantemente evoluir através de projetos práticos e estudos diários que fortalecem minhas bases em lógica, boas práticas e integração entre front e back-end.
 
----
+🧠 Atualmente estou:
 
-### 🧠 Atualmente estou:
-- Estudando **Python**, **lógica de programação** e **Git/GitHub**
-- Praticando com mini-projetos no terminal
-- Buscando minha primeira oportunidade como **estagiário na área de TI**
+Aprofundando meus estudos em TypeScript, React e Next.js
 
----
+Praticando com mini projetos web e APIs REST
 
-### 🧰 Tecnologias que estou aprendendo:
-🐍 Python  
-🗂️ Git & GitHub  
-💾 Banco de Dados (noções básicas)  
-🧱 HTML e CSS  
+Aprimorando meus conhecimentos em Git/GitHub e versionamento de código
 
----
+Buscando minha primeira oportunidade na área de desenvolvimento
 
-### 📫 Como me encontrar:
-📧 **henrique.l.hernandes@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/henrique-luiz-hernandes-02a604210)  
-📸 [Instagram](https://www.instagram.com/ohernandes_)  
+🧰 Tecnologias e conhecimentos:
+⚙️ TypeScript
+⚛️ React & Next.js
+🗂️ Git & GitHub
+💾 Banco de Dados (SQL e NoSQL — noções básicas)
+🧱 HTML e CSS
+🌐 Conceitos de APIs e integração backend/frontend
 
----
+📫 Como me encontrar:
+📧 henrique.l.hernandes@gmail.com
 
-> 💡 "É preciso passar pela escuridão, para apreciar a o nascer do sol."
+💼 LinkedIn
+📸 Instagram
+
 ###
 
 <div style="display: inline_block"><br>
