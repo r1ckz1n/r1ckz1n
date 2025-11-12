@@ -1,5 +1,3 @@
-🚀 Versão atualizada do seu “Sobre”
-
 👋 Olá! Sou o Henrique Luiz Hernandes, estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e desenvolvimento web.
 
 💻 Atualmente estou focado em me tornar um Desenvolvedor Web Full Stack, com ênfase em Backend com TypeScript e Frontend com React e Next.js. Busco constantemente evoluir através de projetos práticos e estudos diários que fortalecem minhas bases em lógica, boas práticas e integração entre front e back-end.
